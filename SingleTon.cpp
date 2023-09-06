@@ -42,4 +42,5 @@ int main()
 {
     singleton *ins1=singleton::getInstance();
     singleton *ins2=singleton::getInstance();
+    return 0;
 }
