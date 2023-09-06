@@ -51,7 +51,6 @@ class factory{
     }
     database *getDBHandle(){return db;}
 };
-
 int main(){
     factory ob(dbType::CASANDRA);
     database *dbh = ob.getDBHandle();
