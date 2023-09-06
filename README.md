@@ -1,4 +1,3 @@
-This README file provides an overview of implementing design patterns in C++. 
 Design patterns are reusable solutions to common problems encountered in software design and development. 
 They offer a structured approach to solving design issues, making your code more maintainable, flexible,
 and easier to understand.
